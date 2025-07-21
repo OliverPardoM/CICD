@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Hola Mundo !! - Tercer Commit para el fork 18 de Julio del 2025 19:35pm" /></h1>
+                <h1><h:outputText value="Hola Mundo !! - Instalacion de Tomcat y Jenkins de 21 Julio del 2025 19:38pm" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
